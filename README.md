@@ -8,7 +8,7 @@ The default path of codes is "D:/experiment/Conference Paper/ECML/ECML2022".
 The path of datasets is "D:/experiment/AAAI2023/dataset". 
 The store path is "D:/experiment/AAAI2023/Result/". 
 
-The baseline algorithms include: FOGD, NOGD, SkeGD and B(AO)2KS. Our algorithm is POMDR.
+The baseline algorithms include: FOGD, NOGD, SkeGD and BAO2KS. Our algorithm is POMDR.
 
 The datasets are downloaded from: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/ and http://archive.ics.uci.edu/ml/datasets.php
 
