@@ -13,5 +13,5 @@ The baseline algorithms include: FOGD, NOGD, SkeGD and B(AO)2KS. Our algorithm i
 The datasets are downloaded from: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/ and http://archive.ics.uci.edu/ml/datasets.php
 
 binary classification datasets: 
-w8a (Num:49749, Fea:300), magic04 (Num:19020, Fea:10), mushrooms (Num:8124, Fea:112), a9a (Num:32561, Fea:123), 
-SUSY (Num:50000, Fea:18), ijcnn1 (Num:141691, Fea:22),
+w8a (Num:49749, Fea:300), magic04 (Num:19020, Fea:10), mushrooms (Num:8124, Fea:112), a9a (Num:48842, Fea:123), 
+SUSY (Num:50000, Fea:18), ijcnn1 (Num:141691, Fea:22), minist12 (Num:12700, Fea:780)
